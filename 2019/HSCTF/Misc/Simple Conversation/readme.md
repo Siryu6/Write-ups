@@ -13,7 +13,7 @@ Then just "cat" it!
 ## Sploit
 
 
-```python
+```bash
 nc misc.hsctf.com 9001
 Hello!
 Hey, can you help me out real quick.

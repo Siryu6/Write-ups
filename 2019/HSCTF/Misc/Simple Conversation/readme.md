@@ -2,7 +2,7 @@
 
 ## Desc
 
-A simple bot in python (prabably over socket) asking you about your age.
+A simple bot in python (probably over socket) asking you about your age.
 
 ## Vuln
 
